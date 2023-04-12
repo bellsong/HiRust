@@ -3,7 +3,7 @@ This is A Trip to Rust
 
 # [Rust 是什么](./doc/what_is_rust.md)
 
-# [Rust 基础]()
+# [Rust 基础](./doc/rust_base.md)
 
 * [变量声明](./src/val.rs)
 
